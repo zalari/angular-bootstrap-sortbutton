@@ -1,0 +1,20 @@
+{
+  "name": "angular-bootstrap-sortbutton",
+  "version": "0.1.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
