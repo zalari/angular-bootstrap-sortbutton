@@ -1,6 +1,6 @@
 {
   "name": "angular-bootstrap-sortbutton",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/zalari/angular-bootstrap-sortbutton",
   "authors": [
     "Christian Ulbrich (Zalari UG haftungsbeschraenkt) <christian.ulbrich@zalari.de>"
@@ -28,7 +28,6 @@
     "src"
   ],
   "dependencies": {
-    "angular":">= 1",
-    "bootstrap":"~3.0.0"
+    "angular":">= 1"
   }
 }
