@@ -27,3 +27,7 @@ The attributes are as following:
 ### Notes
 
  - has not been extensively tested with older bootstrap releases; but as along as the glyphicons are present, it should work. The same applies to older Angular releases; it should work with Angular 1.0.x as well - keep your fingers crossed.
+
+### TODO
+
+* update build process for minifying angular-js directive... ; uglify does not work. PRs are welcome...

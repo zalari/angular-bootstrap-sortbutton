@@ -6,7 +6,7 @@
     "Christian Ulbrich (Zalari UG haftungsbeschraenkt) <christian.ulbrich@zalari.de>"
   ],
   "description": "Native Angular 1.x+ directive for a SortButton, using Bootstrap 3.x+",
-  "main": "angular-bootstrap-sortbutton.min.js",
+  "main": "angular-bootstrap-sortbutton.js",
   "keywords": [
     "angular",
     "angularjs",
@@ -23,7 +23,9 @@
     "bower_components",
     "test",
     "tests",
-    "package.json"
+    "package.json",
+    "Gruntfile.js",
+    "src"
   ],
   "dependencies": {
     "angular":">= 1",
