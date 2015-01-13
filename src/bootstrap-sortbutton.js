@@ -24,7 +24,6 @@ angular.module('zalari.bootstrap.sortButton',[])
           var iconType;
           if (scope.ascending===true) {
             //show
-            $log.debug('asc');
             switch(scope.zaSortType) {
               case 'alpha':
                 iconType='glyphicon-sort-by-alphabet';
@@ -36,7 +35,6 @@ angular.module('zalari.bootstrap.sortButton',[])
                 iconType='glyphicon glyphicon-sort-by-attributes';
             }
           } else {
-            $log.debug('desc');
             switch(scope.zaSortType) {
               case 'alpha':
                 iconType='glyphicon-sort-by-alphabet-alt';
